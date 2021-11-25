@@ -1,0 +1,39 @@
+alertID,category,location,severity,type,district,state,date,isTicketRaised
+0ad16323-b719-4fca-be2d-3e83f825b966,Facility,MH,Critical,BMS-HVAC,Patna,Bihar,19-Nov-22,FALSE
+7719fbb7-7ba6-4348-901c-fc4660fe4f65,Security,AM,High,CCTV,Bangalore,Karnataka,16-Nov-22,FALSE
+42b316f8-c43d-4cf7-bdaa-e15920d15334,Security,DL,Moderate,CCTV,Ghaziabad,Uttar Pradesh,12-Nov-22,FALSE
+5735d047-705e-4860-8f7a-f3ec2f8b4a32,Facility,MH,Low,UPS,Chandigarh,Punjab,12-Oct-22,FALSE
+cc6e7db3-b2ca-4907-9b73-f78836199361,Facility,KL,Critical,UPS,Jodhpur,Rajasthan,2-Oct-22,FALSE
+5342400d-ead4-4db1-a688-461d25595c14,Facility,KL,High,BMS-HVAC,Bhopal,Madhya Pradesh,11-Sep-22,FALSE
+eb07af2b-91d5-450e-8451-cff0f7091616,Facility,PB,Moderate,BMS-HVAC,Noida,Uttar Pradesh,14-Aug-22,FALSE
+7315040f-02af-4e9c-850f-9d0a79fbcf38,Facility,AM,Low,UPS,Gurugram,Haryana,18-Jul-22,FALSE
+d1933b77-269c-407b-99ee-b2bb626471ff,Facility,HR,Critical,UPS,Jaipur,Rajasthan,10-Jul-22,FALSE
+ba24c5f1-3c71-4ac5-b0b7-4fa239dfe3aa,Facility,AB,High,BMS-HVAC,Vellore,Tamil Nadu,5-Jun-22,FALSE
+557bf6ca-b84f-4c0b-85c1-9705a67a7331,Facility,PB,Moderate,IOT,Varanasi,Uttar Pradesh,20-May-22,FALSE
+c664f054-0f2c-4e8e-bf71-2905467226a2,Security,XY,Low,ACS,Bangalore,Karnataka,27-Apr-22,FALSE
+c2c247d1-4a0c-40f5-a938-87c4ec0748bb,Facility,DC,Critical,UPS,Lucknow,Uttar Pradesh,18-Feb-22,FALSE
+086413ab-58bd-404b-82ae-1a47132ee3ed,Facility,KL,High,BMS-HVAC,Puri,Orissa,13-Jan-22,FALSE
+ae8ac270-79cc-4c77-a1d3-b0d2a92b1b39,Security,HR,Moderate,CCTV,Kota,Rajasthan,29-Dec-21,FALSE
+476deb67-7751-482d-9e94-2cbce2ec993e,Security,KL,Low,CCTV,Chandigarh,Punjab,13-Dec-21,FALSE
+a23cff19-b17c-41d5-a27d-1bd6db312fff,Facility,AM,Critical,IOT,Surat,Gujrat,7-Dec-21,FALSE
+1b3afbc1-e0df-4155-8e6e-35cfafa36551,Facility,MH,High,IOT,Jodhpur,Rajasthan,19-Nov-21,FALSE
+1f8ad72f-c6de-4782-bd2b-86f870059ea8,Facility,MH,Moderate,IOT,Kota,Rajasthan,3-Nov-21,FALSE
+edfe7ab4-d63a-4a44-a1f9-0773afdd17da,Facility,PB,Low,UPS,Faridabad,Haryana,31-Oct-21,FALSE
+86a584a7-e1f3-400f-9f0b-a87536481e02,Facility,DC,Critical,BMS-HVAC,Ahmedabad,Gujrat,28-Oct-21,FALSE
+5b93aa5a-c4ca-4caa-bc10-b0ac13bbac58,Facility,DC,High,IOT,Faridabad,Haryana,24-Oct-21,FALSE
+c39fc5f1-5f9f-479f-8616-fbe66813e402,Security,DL,Moderate,ACS,Varanasi,Uttar Pradesh,6-Oct-21,FALSE
+d3376fab-23e0-4d18-985f-7ac9f150f79b,Facility,HR,Low,BMS-HVAC,Ghaziabad,Uttar Pradesh,2-Oct-21,FALSE
+5a27329b-01ea-4046-b135-6b1b9a16f6b8,Security,AM,Critical,ACS,Ahmedabad,Gujrat,11-Sep-21,FALSE
+8c926e60-70ce-4c88-8e98-c37a688aee6a,Facility,DL,High,BMS-HVAC,Jaipur,Rajasthan,27-Aug-21,FALSE
+c09cc8dc-602e-4af2-a09f-1d1e2b0d5be2,Security,MH,Moderate,ACS,Puri,Orissa,24-Aug-21,FALSE
+737f9a5b-2092-4356-96d2-23b6d4da7a9c,Security,AB,Low,ACS,Mordabad,Uttar Pradesh,23-Aug-21,FALSE
+26619860-7215-4cc6-b6a6-951f095c9c3d,Security,DC,Critical,ACS,Gurugram,Haryana,13-Aug-21,FALSE
+a82bd1a3-4346-4efc-bae7-612b040acbf7,Security,AB,High,CCTV,Delhi,Delhi,18-Jul-21,FALSE
+0b0eb5ce-7835-46de-af23-c47c25d41d2c,Facility,XY,Moderate,BMS-HVAC,Delhi,Delhi,17-Jul-21,FALSE
+b03179c4-1993-4109-9a86-0479102aa124,Facility,AB,Low,IOT,Bhopal,Madhya Pradesh,30-Mar-21,FALSE
+d3a3f836-93a6-4f6d-8cb9-01893581248e,Security,HR,Critical,ACS,Patna,Bihar,26-Mar-21,FALSE
+71fcc92b-4a70-4569-96ac-56cdfef9f3fd,Security,XY,High,CCTV,Surat,Gujrat,16-Mar-21,FALSE
+ea929dc3-50cd-4f45-8db3-b510bfff38c2,Facility,XY,Moderate,UPS,Vellore,Tamil Nadu,9-Mar-21,FALSE
+066cd432-f624-42f7-b496-762b8b8d7fae,Facility,DL,Low,IOT,Noida,Uttar Pradesh,5-Mar-21,FALSE
+17335326-d9d9-4722-bc35-8917b7cc8c32,Security,PB,Moderate,CCTV,Lucknow,Uttar Pradesh,15-Feb-21,FALSE
+6613477a-9658-4cce-8738-2d593ec7481a,Facility,KL,Low,IOT,Mordabad,Uttar Pradesh,31-Jan-21,FALSE
